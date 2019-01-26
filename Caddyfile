@@ -1,0 +1,5 @@
+
+fuz.localhost:8089 {
+	tls off
+	root ./public
+}
