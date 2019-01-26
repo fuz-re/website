@@ -1,5 +1,5 @@
 
-fuz.localhost:8089 {
+website.fuz.re {
 	tls off
 	root ./public
 }
